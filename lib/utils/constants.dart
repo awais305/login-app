@@ -1,0 +1,29 @@
+class AssetImages {
+  static const String logo = 'assets/images/logo.png';
+  static const String facebook = 'assets/images/facebook.png';
+  static const String google = 'assets/images/google.png';
+  static const String work = 'assets/images/work.png';
+  static const String wallet = 'assets/images/wallet.png';
+  static const String profile = 'assets/images/profile.png';
+  static const String treasure = 'assets/images/treasure.png';
+  static const String message = 'assets/images/message.png';
+  static const String email = 'assets/images/email.png';
+  static const String lock = 'assets/images/lock.png';
+  static const String lockOutlined = 'assets/images/lock-outlined.png';
+  static const String particles = 'assets/images/particles.png';
+  static const String menu = 'assets/images/menu.png';
+  static const String downArrow = 'assets/images/arrow-down.png';
+  static const String rightArrow = 'assets/images/arrow-right.png';
+  static const String avatar1 = 'assets/images/avatar1.png';
+  static const String avatar2 = 'assets/images/avatar2.png';
+  static const String avatar3 = 'assets/images/avatar3.png';
+  static const String avatar4 = 'assets/images/avatar4.png';
+  static const String avatar5 = 'assets/images/avatar5.png';
+  static const String avatar6 = 'assets/images/avatar6.png';
+  static const String avatar7 = 'assets/images/avatar7.png';
+  static const String copy = 'assets/images/copy.png';
+  static const String send = 'assets/images/send.png';
+  static const String edit = 'assets/images/edit.png';
+  static const String location = 'assets/images/location.png';
+  static const String star = 'assets/images/star.png';
+}
