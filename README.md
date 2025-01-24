@@ -21,3 +21,9 @@ A new Flutter project.
 - Used Provider to manage user state across screens.
 - Separated UI components from business logic to maintain a clean codebase and simplify future enhancements.
 - Designed screens to be responsive and adhere to Figma-provided UI guidelines for a consistent and visually appealing experience.
+
+## Screenshots
+
+| Auth Validation | Home Screen | Profile Screen |
+|:-:|:-:|:-:|
+| ![Auth Validation](https://github.com/user-attachments/assets/a8e78b13-64c1-47d8-9f43-5870cdd90398) | ![Home Screen](https://github.com/user-attachments/assets/d5fb13b5-9d3a-4783-bcbd-dfd7b32b611c) | ![Profile Screen](https://github.com/user-attachments/assets/4ae1be96-c3b9-4429-91df-77870973fd96) |
